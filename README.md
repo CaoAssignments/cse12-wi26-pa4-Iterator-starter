@@ -477,13 +477,13 @@ For clarity, here is the method description and examples from before.
 // Example 1
 left     ->   <1>  <-> <2> <-> <3>
 right    ->   <4>  <-> <5> <-> <6>
-                                          // 
+                                            // Sorted merged list 
 MyAlgorithm.mergeLists(left, right)    ->   <1> <-> <2> <-> <3> <-> <4> <-> <5> <-> <6>
 
 // Example 2
 left     ->   <1> <-> <2> <-> <2>
 right    ->   <2> <-> <3> <-> <4>
-                                          // 
+                                            // Sorted merged list, duplicates kept
 MyAlgorithm.mergeLists(left, right)    ->   <1> <-> <2> <-> <2> <-> <2> <-> <3> <-> <4>
 </pre>
 
