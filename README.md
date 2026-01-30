@@ -28,7 +28,7 @@ Inside, you will find the following files:
 
 ## Assignment Breakdown (100 Points)
 
-* **Task 1** [95 points] You will earn points based on the autograder tests that your code passes. If the autograder tests are not able to run (e.g., your code does not compile or it does not match the specifications in this writeup), you may not earn credit.
+* **Task 1** [100 points] You will earn points based on the autograder tests that your code passes. If the autograder tests are not able to run (e.g., your code does not compile or it does not match the specifications in this writeup), you may not earn credit.
     * **Tester** [20 points]
         * The autograder will test your implementation of the JUnit tests. Your unit tests are expected to fail or pass based on the [Part 1 Test Table](#Tests-Table-List-of-test-cases-to-write-and-their-description).
     * **MyListIterator** [65 points]
